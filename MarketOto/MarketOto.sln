@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketOto", "MarketOto\MarketOto.csproj", "{61F10675-F2C4-4383-8056-E87CD87CA8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F10675-F2C4-4383-8056-E87CD87CA8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F10675-F2C4-4383-8056-E87CD87CA8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F10675-F2C4-4383-8056-E87CD87CA8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F10675-F2C4-4383-8056-E87CD87CA8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F45C958-E1FB-4E97-9D02-2CB68A0B4CC2}
+	EndGlobalSection
+EndGlobal

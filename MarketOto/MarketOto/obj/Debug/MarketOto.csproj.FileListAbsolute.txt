@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MarketOto\MarketOto\bin\Debug\MarketOto.exe.config
+C:\Users\User\source\repos\MarketOto\MarketOto\bin\Debug\MarketOto.exe
+C:\Users\User\source\repos\MarketOto\MarketOto\bin\Debug\MarketOto.pdb
+C:\Users\User\source\repos\MarketOto\MarketOto\obj\Debug\MarketOto.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MarketOto\MarketOto\obj\Debug\MarketOto.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MarketOto\MarketOto\obj\Debug\MarketOto.exe
+C:\Users\User\source\repos\MarketOto\MarketOto\obj\Debug\MarketOto.pdb
